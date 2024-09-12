@@ -1,0 +1,5 @@
+# .DS_Store ignore
+**/.DS_Store
+
+# .ipynb-checkpoint ignore
+**/.ipynb_checkpoints
